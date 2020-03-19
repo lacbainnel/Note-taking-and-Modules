@@ -1,0 +1,53 @@
+﻿
+
+
+           Module 5:
+
+                                                          CELL CYCLE
+
+                   The cell cycle can be thought of as the life cycle of a cell. In other words, it is the series of
+          growth and development steps a cell undergoes between its 'birth'—formation by the division of a mother cell
+          (and reproduction) division to make two new daughter cells.
+
+          LEARNING OBJECTIVES
+          - Identify the stages of cell cycle
+
+                                                       STAGES OF CELL CYCLE
+
+                   Different cells take different lengths of time to complete the cell cycle. A typical human cell might
+          take about 24 hours to divide, but fast-cycling mammalian cells, like the ones that line the intestine, can com-
+          plete a cycle every 9-10 hours when they're grown in culture.
+
+                   To divide, a cell must complete several important tasks: it must grow, copy its genetic material (DNA),
+         and physically split into two daughter cells. Cells perform these tasks in an organized, predictable series of
+         steps that make up the cell cycle. The cell cycle is a cycle, rather than a linear pathway, because at the end of
+         each go-round, the two daughter cells can start the exact same process over again from the beginning.
+
+                   In eukaryotic cells, or cells with a nucleus, the stages of the cell cycle are divided into two major
+         phases, interphase and the mitotic (M) phase. During interphase, the cell grows and makes a copy of its DNA. On
+         the other hand, during the mitotic (M) phase, the cell separates its DNA into two sets and divides its cytoplasm,
+         forming two new cells.
+
+                                                              INTERPHASE
+
+                   Let’s enter the cell cycle just as a cell forms, by division of its mother cell. What must this newborn
+        cell do next if it wants to go on and divide itself? Preparation for division happens in three steps: First is the G1
+        Phase, wherein the cells grow physically larger, copies organelles and makes the molecular building blocks it will
+        beed in later steps. Second is the S Phase wherein the cell synthesizes a complete copy of the DNA in its nucleus. It
+        also duplicates a microtubule- organizing structure called the centrosome. Lastly is the G2 Phase wherin the cell grows
+        more, makes proteins and organelles and begins to reorganize its contents in preparation for mitosis.
+
+                                                                M PHASE
+
+                  During the mitotic (M) phase, the cell divides its copied DNA and cytoplasm to make two new cells. M phase in-
+        volves two distinct division-related processes: mitosis and cytokinesis.
+
+                  In mitosis, the nuclear DNA of the cell condenses into visible chromosomes and is pulled apart by the mitotic
+        spindle, a specialized structure made out of microtubules. Mitosis takes place in four stages: prophase (sometimes divi-
+        ded into early prophase and prometaphase), metaphase, anaphase, and telophase.
+
+                  In cytokinesis, the cytoplasm of the cell is split in two, making two new cells. Cytokinesis usually begins
+        just as mitosis is ending, with a little overlap. Importantly, cytokinesis takes place differently in animal and plant
+        cells.
+
+

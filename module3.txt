@@ -1,0 +1,49 @@
+﻿
+
+
+            Module 3:
+
+                                                   EUKARYOTIC CELLS VS PROKARYOTIC CELLS
+
+                    A eukaryotic cell has a true membrane-bound nucleus and has other membranous organelles that allow
+            for compartmentalization of functions.
+
+           LEARNING OBJECTIVES
+           - Describe eukaryotic cells and its structure
+           - Describe prokaryotic cells and its structure
+
+                                                           PROKARYOTIC CELLS
+
+                    All cells share four common components: First, a plasma membrane: an outer covering that separates the
+           cell’s interior from its surrounding environment. Second,cytoplasm: a jelly-like cytosol within the cell in which
+           other cellular components are found. Third, DNA: the genetic material of the cell. Lastly, ribosomes is where pro-
+           tein synthesis occurs.
+
+                    A prokaryote is a simple, single-celled (unicellular) organism that lacks an organized nucleus or any other
+           membrane-bound organelle. We will shortly come to see that this is significantly different in eukaryotes. Prokaryotic
+           DNA is found in a central part of the cell: the nucleoid.
+
+                    At 0.1 to 5.0 μm in diameter, prokaryotic cells are significantly smaller than eukaryotic cells, which have
+           diameters ranging from 10 to 100 μm. The small size of prokaryotes allows ions and organic molecules that enter them
+           to quickly diffuse to other parts of the cell.
+
+                                                              EUKARYOTIC CELLS
+
+                    Like a prokaryotic cell, a eukaryotic cell has a plasma membrane, cytoplasm, and ribosomes. However, unlike
+           prokaryotic cells, eukaryotic cells have: First,a membrane-bound nucleus. Second, numerous membrane-bound organelles
+           (including the endoplasmic reticulum, Golgi apparatus, chloroplasts, and mitochondria). Third, several rod-shaped chro-
+           mosomes.
+
+                    Because a eukaryotic cell’s nucleus is surrounded by a membrane, it is often said to have a 'true nucleus.'
+           Organelles (meaning 'little organ') have specialized cellular roles, just as the organs of your body have specialized
+           roles. They allow different functions to be compartmentalized in different areas of the cell.
+
+                    While all eukaryotic cells contain the aforementioned organelles and structures, there are some striking dif-
+           ferences between animal and plant cells. Animal cells have a centrosome and lysosomes, whereas plant cells do not. The
+           centrosome is a microtubule\-organizing center found near the nuclei of animal cells while lysosomes take care of the
+           cell’s digestive process.
+
+                    In addition, plant cells have a cell wall, a large central vacuole, chloroplasts, and other specialized plas-
+           tids, whereas animal cells do not. The cell wall protects the cell, provides structural support, and gives shape to the
+           cell while the central vacuole plays a key role in regulating the cell’s concentration of water in changing environmen-
+           tal conditions. Chloroplasts are the organelles that carry out photosynthesis.
